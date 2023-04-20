@@ -1,0 +1,23 @@
+{
+  "name": "my_be_deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamburgcodingschool/my_be_deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamburgcodingschool/my_be_deploy/issues"
+  },
+  "homepage": "https://github.com/hamburgcodingschool/my_be_deploy#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
